@@ -1,0 +1,8 @@
+name: interactiveqm
+channels:
+  - conda-forge
+dependencies:
+  - ipympl
+  - scipy
+  - pandas
+  - nb_conda
